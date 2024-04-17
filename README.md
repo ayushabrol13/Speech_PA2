@@ -50,3 +50,8 @@ Furthermore, it is important to acknowledge that the programming assignment requ
 ### Pre-requisites
 
 #### Data-wise pre-requisites
+
+Now, for each question the required data must be downloaded and located in the specified path.
+
+- For question 01, two datasets are required. First is the VoxCeleb1-H dataset, which should be downloaded and stored under the path 'root/voxceleb1' and its metadata text file as 'root/VoxCelebVerification.txt'. Second is the Kathbath dataset for which 'hindi' language data should be downloaded and stored under tha path 'root/KathBath/hindi' and its metadata as 'root/KathBath_MetaData/hindi'.
+- For question 02, the required generated data is stored under the path 'Q2/LibriMix/storage_dir/Libri2Mix/wav16k/max/test'.
